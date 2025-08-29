@@ -1,4 +1,4 @@
-# Coin Game (JavaFX)
+# Coin Game 
 
 This is a simple coin-picking game between **two real players or two computers**, designed using **JavaFX**.
 The game uses **Dynamic Programming (DP)** to calculate the best moves for each player.
